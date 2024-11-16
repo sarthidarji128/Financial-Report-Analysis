@@ -35,3 +35,8 @@ To install these libraries, use the following command:
 
 ```bash
 pip install pandas matplotlib
+
+---
+here is the Output Screeshot
+
+<img width="1194" alt="Screenshot 2024-11-16 at 4 09 56 PM" src="https://github.com/user-attachments/assets/3784dcc2-e19e-4487-a123-786b7e31c903">
